@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "자료구조.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "자료구조.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "자료구조.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "자료구조.md"
+                "file": "README.md"
               }
             }
           }
@@ -193,10 +193,10 @@
   },
   "active": "7af4a369f01615a6",
   "lastOpenFiles": [
+    "컴퓨터네트워크.md",
+    "자료구조.md",
     "공학설계.md",
     "README.md",
-    "자료구조.md",
-    "컴퓨터네트워크.md",
     "알고리즘.md",
     "무제 파일 1.canvas",
     "무제 파일.canvas"
