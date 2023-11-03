@@ -62,9 +62,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "670142b875de4035",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "캡스톤.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "캡스톤.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "캡스톤.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "캡스톤.md"
               }
             }
           }
@@ -191,12 +203,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "7af4a369f01615a6",
+  "active": "670142b875de4035",
   "lastOpenFiles": [
+    "README.md",
+    "캡스톤.md",
     "컴퓨터네트워크.md",
     "자료구조.md",
     "공학설계.md",
-    "README.md",
     "알고리즘.md",
     "무제 파일 1.canvas",
     "무제 파일.canvas"
