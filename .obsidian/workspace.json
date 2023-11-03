@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "캡스톤.md",
+                "file": "알고리즘.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "캡스톤.md",
+                "file": "알고리즘.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "캡스톤.md",
+                "file": "알고리즘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "캡스톤.md"
+                "file": "알고리즘.md"
               }
             }
           }
@@ -205,12 +205,13 @@
   },
   "active": "670142b875de4035",
   "lastOpenFiles": [
-    "README.md",
-    "캡스톤.md",
-    "컴퓨터네트워크.md",
     "자료구조.md",
-    "공학설계.md",
+    "DFS.md",
     "알고리즘.md",
+    "캡스톤.md",
+    "README.md",
+    "컴퓨터네트워크.md",
+    "공학설계.md",
     "무제 파일 1.canvas",
     "무제 파일.canvas"
   ]
