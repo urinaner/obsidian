@@ -21,14 +21,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "알고리즘.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "95844636d9310849",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "컴퓨터네트워크.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "780414c95d1f265b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7af4a369f01615a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -94,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "무제 파일.md"
               }
             }
           }
@@ -155,9 +191,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "17525f8e14bf231e",
+  "active": "7af4a369f01615a6",
   "lastOpenFiles": [
-    "공부.md",
+    "자료구조.md",
+    "무제 파일.md",
+    "컴퓨터네트워크.md",
+    "알고리즘.md",
     "README.md",
     "무제 파일 1.canvas",
     "무제 파일.canvas"
