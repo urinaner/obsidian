@@ -55,12 +55,8 @@
             "id": "2e8d4d603fe66d94",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "캡스톤.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -130,7 +126,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "캡스톤.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +142,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "캡스톤.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,9 +163,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "캡스톤.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -193,8 +185,8 @@
   },
   "active": "2e8d4d603fe66d94",
   "lastOpenFiles": [
-    "우리꺼 당위성이 아예없긴함.md",
     "캡스톤.md",
+    "우리꺼 당위성이 아예없긴함.md",
     "알고리즘.md",
     "DFS.md",
     "공학설계.md",
