@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "공부.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "공부.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "공부.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "공부.md"
+                "file": "README.md"
               }
             }
           }
@@ -157,9 +157,9 @@
   },
   "active": "17525f8e14bf231e",
   "lastOpenFiles": [
-    "무제 파일 1.canvas",
-    "무제 파일.canvas",
+    "공부.md",
     "README.md",
-    "공부.md"
+    "무제 파일 1.canvas",
+    "무제 파일.canvas"
   ]
 }
