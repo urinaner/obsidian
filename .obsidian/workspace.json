@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "공학설계기초.md",
+                "file": "공학설계.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "공학설계기초.md",
+                "file": "자료구조.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "공학설계기초.md",
+                "file": "자료구조.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "공학설계기초.md",
+                "file": "자료구조.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "공학설계기초.md"
+                "file": "자료구조.md"
               }
             }
           }
@@ -193,8 +193,8 @@
   },
   "active": "7af4a369f01615a6",
   "lastOpenFiles": [
+    "공학설계.md",
     "README.md",
-    "공학설계기초.md",
     "자료구조.md",
     "컴퓨터네트워크.md",
     "알고리즘.md",
