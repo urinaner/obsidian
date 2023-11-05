@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "컴퓨터네트워크.md",
+                "file": "캡스톤.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "컴퓨터네트워크.md",
+                "file": "캡스톤.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "컴퓨터네트워크.md",
+                "file": "캡스톤.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "컴퓨터네트워크.md"
+                "file": "캡스톤.md"
               }
             }
           }
@@ -193,6 +193,7 @@
   },
   "active": "2e8d4d603fe66d94",
   "lastOpenFiles": [
+    "컴퓨터네트워크.md",
     "혼잡도계산 방식 고안.md",
     "캡스톤.md",
     "우리꺼 당위성이 아예없긴함.md",
@@ -201,7 +202,6 @@
     "공학설계.md",
     "README.md",
     "자료구조.md",
-    "컴퓨터네트워크.md",
     "무제 파일 1.canvas",
     "무제 파일.canvas"
   ]
