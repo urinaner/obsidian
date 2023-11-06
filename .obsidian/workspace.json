@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TCP.md",
+                "file": "UDP.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCP.md",
+                "file": "UDP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TCP.md",
+                "file": "UDP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCP.md"
+                "file": "UDP.md"
               }
             }
           }
@@ -194,7 +194,8 @@
   "active": "2e8d4d603fe66d94",
   "lastOpenFiles": [
     "컴퓨터네트워크/컴퓨터네트워크.md",
-    "TCP.md",
+    "UDP.md",
+    "컴퓨터네트워크/TCP.md",
     "알고리즘.md",
     "컴퓨터네트워크/전송 지연(transmission delay).md",
     "컴퓨터네트워크/큐잉 지연(queuing delay).md",

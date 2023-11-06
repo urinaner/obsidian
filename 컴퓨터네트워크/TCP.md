@@ -13,7 +13,7 @@
 
   
 
-### [신뢰적인 데이터 전송 서비스](https://github.com/IT-Book-Organization/Computer-Networking_A-Top-Down-Approach/tree/main/Chapter_2/2.1%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%9D%98%20%EC%9B%90%EB%A6%AC#%EC%8B%A0%EB%A2%B0%EC%A0%81%EC%9D%B8-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%84%EC%86%A1-%EC%84%9C%EB%B9%84%EC%8A%A4)
+신뢰적인 데이터 전송 서비스
 
 통신 프로세스는 **모든 데이터를 오류 없이 올바른 순서로 전달하기 위해** TCP에 의존한다.
 
@@ -21,6 +21,6 @@ TCP는 애플리케이션의 한 쪽이 바이트 스트림을 소켓으로 전�
 
   
 
-### [혼잡 제어 방식](https://github.com/IT-Book-Organization/Computer-Networking_A-Top-Down-Approach/tree/main/Chapter_2/2.1%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%9D%98%20%EC%9B%90%EB%A6%AC#%ED%98%BC%EC%9E%A1-%EC%A0%9C%EC%96%B4-%EB%B0%A9%EC%8B%9D)
+혼잡 제어 방식
 
 네트워크가 혼잡 상태에 이르면 프로세스의 속도를 낮추는 방법 (또한, 3장에서 자세히 다룬다.)
