@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "컴퓨터네트워크.md",
+                "file": "컴퓨터네트워크/컴퓨터네트워크.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "컴퓨터네트워크.md",
+                "file": "TCP.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "컴퓨터네트워크.md",
+                "file": "TCP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "컴퓨터네트워크.md",
+                "file": "TCP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "컴퓨터네트워크.md"
+                "file": "TCP.md"
               }
             }
           }
@@ -193,14 +193,18 @@
   },
   "active": "2e8d4d603fe66d94",
   "lastOpenFiles": [
-    "큐잉 지연(queuing delay).md",
-    "컴퓨터네트워크.md",
+    "컴퓨터네트워크/컴퓨터네트워크.md",
+    "TCP.md",
+    "알고리즘.md",
+    "컴퓨터네트워크/전송 지연(transmission delay).md",
+    "컴퓨터네트워크/큐잉 지연(queuing delay).md",
+    "컴퓨터네트워크",
+    "컴퓨터네트워크/전파 지연(propagation delay).md",
+    "컴퓨터네트워크/노드 처리 지연(nodal processing delay).md",
+    "DFS.md",
     "캡스톤.md",
-    "무제 폴더",
     "혼잡도계산 방식 고안.md",
     "우리꺼 당위성이 아예없긴함.md",
-    "알고리즘.md",
-    "DFS.md",
     "공학설계.md",
     "README.md",
     "자료구조.md",
