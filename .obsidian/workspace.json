@@ -62,9 +62,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6f0046d12f9b3cfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "백엔드/Django.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UDP.md",
+                "file": "백엔드/Django.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UDP.md",
+                "file": "백엔드/Django.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UDP.md"
+                "file": "백엔드/Django.md"
               }
             }
           }
@@ -193,9 +205,10 @@
   },
   "active": "9dd6aa8d7b24e279",
   "lastOpenFiles": [
-    "무제 폴더",
-    "컴퓨터네트워크/컴퓨터네트워크.md",
     "UDP.md",
+    "백엔드/Django.md",
+    "백엔드",
+    "컴퓨터네트워크/컴퓨터네트워크.md",
     "컴퓨터네트워크/TCP.md",
     "알고리즘.md",
     "컴퓨터네트워크/전송 지연(transmission delay).md",
