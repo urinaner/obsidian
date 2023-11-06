@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "캡스톤.md",
+                "file": "컴퓨터네트워크.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "캡스톤.md",
+                "file": "컴퓨터네트워크.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "캡스톤.md",
+                "file": "컴퓨터네트워크.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "캡스톤.md"
+                "file": "컴퓨터네트워크.md"
               }
             }
           }
@@ -191,12 +191,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9dd6aa8d7b24e279",
+  "active": "2e8d4d603fe66d94",
   "lastOpenFiles": [
+    "캡스톤.md",
     "무제 폴더",
     "컴퓨터네트워크.md",
     "혼잡도계산 방식 고안.md",
-    "캡스톤.md",
     "우리꺼 당위성이 아예없긴함.md",
     "알고리즘.md",
     "DFS.md",
