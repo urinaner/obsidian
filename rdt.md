@@ -1,0 +1,63 @@
+## [완벽하게 신뢰적인 채널상에서의 신뢰적인 데이터 전송: rdt1.0](https://github.com/IT-Book-Organization/Computer-Networking_A-Top-Down-Approach/tree/main/Chapter_3/3.4%20%EC%8B%A0%EB%A2%B0%EC%A0%81%EC%9D%B8%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%EC%86%A1%EC%9D%98%20%EC%9B%90%EB%A6%AC#%EC%99%84%EB%B2%BD%ED%95%98%EA%B2%8C-%EC%8B%A0%EB%A2%B0%EC%A0%81%EC%9D%B8-%EC%B1%84%EB%84%90%EC%83%81%EC%97%90%EC%84%9C%EC%9D%98-%EC%8B%A0%EB%A2%B0%EC%A0%81%EC%9D%B8-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%84%EC%86%A1-rdt10)
+
+**하위 채널이 완전히 신뢰적인** 가장 간단한 경우를 고려해보자.
+
+
+### [rdt1.0에 대한 FSM](https://github.com/IT-Book-Organization/Computer-Networking_A-Top-Down-Approach/tree/main/Chapter_3/3.4%20%EC%8B%A0%EB%A2%B0%EC%A0%81%EC%9D%B8%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%EC%86%A1%EC%9D%98%20%EC%9B%90%EB%A6%AC#rdt10%EC%97%90-%EB%8C%80%ED%95%9C-fsm)
+
+rdt1.0 송신자와 수신자에 대한 유한상태 머신(FSM) 정리는 아래 그림과 같다.
+
+  
+
+> 💡 송신자에 대해 그리고 수신자에 대해 **분리된 FSM**이 있다
+
+- a는 송신자(sender)의 동작에 대한 정의
+- b는 수신자(receiver)의 동작에 대한 정의
+
+  
+
+[![rdt1.0](https://user-images.githubusercontent.com/86337233/211394885-cee89e54-814d-4772-9083-617648a91488.png)](https://user-images.githubusercontent.com/86337233/211394885-cee89e54-814d-4772-9083-617648a91488.png)  
+  
+
+rdt1.0에서 **각각의 FSM은 하나의 상태만을 가지므로**, 전이는 필연적으로 그 상태로부터 자신으로 되돌아온다.
+
+  
+
+#### [송신자](https://github.com/IT-Book-Organization/Computer-Networking_A-Top-Down-Approach/tree/main/Chapter_3/3.4%20%EC%8B%A0%EB%A2%B0%EC%A0%81%EC%9D%B8%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%EC%86%A1%EC%9D%98%20%EC%9B%90%EB%A6%AC#%EC%86%A1%EC%8B%A0%EC%9E%90)
+
+1. `rdt_send(data)` 이벤트에 의해  
+    (이 이벤트는 상위 계층 애플리케이션의 프로시저 호출(e.g., `rdt_send()`)에 의해 발생)
+    
+    1. 상위 계층으로부터 데이터를 받아들이고
+    2. 데이터를 포함한 패킷을 생성한다. (`make_pkt(data)`)
+2. 그러고 난 후 패킷을 채널로 송신한다.
+    
+
+  
+
+#### [수신자](https://github.com/IT-Book-Organization/Computer-Networking_A-Top-Down-Approach/tree/main/Chapter_3/3.4%20%EC%8B%A0%EB%A2%B0%EC%A0%81%EC%9D%B8%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%EC%86%A1%EC%9D%98%20%EC%9B%90%EB%A6%AC#%EC%88%98%EC%8B%A0%EC%9E%90)
+
+1. rdt는 `rdt_rcv(packet)` 이벤트에 의해 하위의 채널로부터 패킷을 수신한다. : 이 이벤트는 하위 계층 프로토콜로부터의 프로시저 호출(e.g., `rdt_rcv()`)에 의해 발생한다.
+    
+2. 패킷으로부터 데이터를 추출하고 (`extract(packet, data)`)
+    
+3. 데이터를 상위 계층으로 전달한다. (`deliver_data(data)`)
+    
+
+  
+
+---
+
+  
+
+여기서는 데이터 단위와 패킷의 차이점이 없으며, 모든 패킷 흐름은 송신자로부터 수신자까지다.
+
+  
+
+> 💡 완전히 신뢰적인 채널에서는 오류가 생길 수 없으므로 **수신 측이 송신 측에게 어떤 피드백(feedback)도 제공할 필요가 없다.**
+
+  
+
+또한, **수신자는 송신자가 데이터를 송신하자마자 데이터를 수신할 수 있다**고 가정하였다.
+
+따라서 수신자가 송신자에게 천천히 보내라는 것을 요청할 필요가 없다.

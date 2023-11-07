@@ -11,14 +11,11 @@
             "id": "71ecdd1a21ce2540",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "무제 파일.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "rdt.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.canvas",
+                "file": "rdt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.canvas",
+                "file": "rdt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.canvas"
+                "file": "rdt.md"
               }
             }
           }
@@ -151,13 +148,14 @@
   },
   "active": "71ecdd1a21ce2540",
   "lastOpenFiles": [
+    "컴퓨터네트워크/컴퓨터네트워크.md",
+    "rdt.md",
     "무제 파일.canvas",
     "UDP.md",
     "공학설계.md",
     "알고리즘.md",
     "백엔드/Django.md",
     "백엔드",
-    "컴퓨터네트워크/컴퓨터네트워크.md",
     "컴퓨터네트워크/TCP.md",
     "컴퓨터네트워크/전송 지연(transmission delay).md",
     "컴퓨터네트워크/큐잉 지연(queuing delay).md",
