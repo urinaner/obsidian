@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CV.md",
+                "file": "혼잡도계산 방식 고안.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CV.md",
+                "file": "혼잡도계산 방식 고안.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CV.md",
+                "file": "혼잡도계산 방식 고안.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CV.md"
+                "file": "혼잡도계산 방식 고안.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "71ecdd1a21ce2540",
   "lastOpenFiles": [
+    "AI/CV.md",
+    "2-Stage Detector.md",
+    "AI/1-Stage Detector.md",
     "혼잡도계산 방식 고안.md",
-    "CV.md",
     "AI/NLP",
     "AI/ML",
     "AI/CV",
