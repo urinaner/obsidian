@@ -4,51 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6ed38dc0328cee81",
+        "id": "93acf20e928a7124",
         "type": "tabs",
         "children": [
           {
-            "id": "17525f8e14bf231e",
+            "id": "71ecdd1a21ce2540",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "알고리즘.md",
-                "mode": "source",
-                "source": false
+                "file": "무제 파일.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
-            }
-          },
-          {
-            "id": "780414c95d1f265b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "공학설계.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e8d4d603fe66d94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UDP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f0046d12f9b3cfc",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -117,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘.md",
+                "file": "무제 파일.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘.md",
+                "file": "무제 파일.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘.md"
+                "file": "무제 파일.canvas"
               }
             }
           }
@@ -178,14 +149,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "17525f8e14bf231e",
+  "active": "71ecdd1a21ce2540",
   "lastOpenFiles": [
-    "백엔드/Django.md",
+    "무제 파일.canvas",
     "UDP.md",
+    "공학설계.md",
+    "알고리즘.md",
+    "백엔드/Django.md",
     "백엔드",
     "컴퓨터네트워크/컴퓨터네트워크.md",
     "컴퓨터네트워크/TCP.md",
-    "알고리즘.md",
     "컴퓨터네트워크/전송 지연(transmission delay).md",
     "컴퓨터네트워크/큐잉 지연(queuing delay).md",
     "컴퓨터네트워크",
@@ -195,10 +168,8 @@
     "캡스톤.md",
     "혼잡도계산 방식 고안.md",
     "우리꺼 당위성이 아예없긴함.md",
-    "공학설계.md",
     "README.md",
     "자료구조.md",
-    "무제 파일 1.canvas",
-    "무제 파일.canvas"
+    "무제 파일 1.canvas"
   ]
 }
