@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rdt.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rdt.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rdt.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rdt.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,10 +148,13 @@
   },
   "active": "71ecdd1a21ce2540",
   "lastOpenFiles": [
-    "컴퓨터네트워크/컴퓨터네트워크.md",
-    "rdt.md",
+    "DFS.md",
+    "컴퓨터네트워크/rdt2.0.md",
     "무제 파일.canvas",
-    "UDP.md",
+    "컴퓨터네트워크/rdt.md",
+    "컴퓨터네트워크/rdt1.0.md",
+    "컴퓨터네트워크/컴퓨터네트워크.md",
+    "컴퓨터네트워크/UDP.md",
     "공학설계.md",
     "알고리즘.md",
     "백엔드/Django.md",
@@ -162,7 +165,6 @@
     "컴퓨터네트워크",
     "컴퓨터네트워크/전파 지연(propagation delay).md",
     "컴퓨터네트워크/노드 처리 지연(nodal processing delay).md",
-    "DFS.md",
     "캡스톤.md",
     "혼잡도계산 방식 고안.md",
     "우리꺼 당위성이 아예없긴함.md",

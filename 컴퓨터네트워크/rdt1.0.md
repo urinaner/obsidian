@@ -1,9 +1,7 @@
-## [완벽하게 신뢰적인 채널상에서의 신뢰적인 데이터 전송: rdt1.0](https://github.com/IT-Book-Organization/Computer-Networking_A-Top-Down-Approach/tree/main/Chapter_3/3.4%20%EC%8B%A0%EB%A2%B0%EC%A0%81%EC%9D%B8%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%EC%86%A1%EC%9D%98%20%EC%9B%90%EB%A6%AC#%EC%99%84%EB%B2%BD%ED%95%98%EA%B2%8C-%EC%8B%A0%EB%A2%B0%EC%A0%81%EC%9D%B8-%EC%B1%84%EB%84%90%EC%83%81%EC%97%90%EC%84%9C%EC%9D%98-%EC%8B%A0%EB%A2%B0%EC%A0%81%EC%9D%B8-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%84%EC%86%A1-rdt10)
-
 **하위 채널이 완전히 신뢰적인** 가장 간단한 경우를 고려해보자.
 
 
-### [rdt1.0에 대한 FSM](https://github.com/IT-Book-Organization/Computer-Networking_A-Top-Down-Approach/tree/main/Chapter_3/3.4%20%EC%8B%A0%EB%A2%B0%EC%A0%81%EC%9D%B8%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%EC%86%A1%EC%9D%98%20%EC%9B%90%EB%A6%AC#rdt10%EC%97%90-%EB%8C%80%ED%95%9C-fsm)
+### [[rdt1.0]]에 대한 FSM
 
 rdt1.0 송신자와 수신자에 대한 유한상태 머신(FSM) 정리는 아래 그림과 같다.
 
@@ -23,7 +21,7 @@ rdt1.0에서 **각각의 FSM은 하나의 상태만을 가지므로**, 전이�
 
   
 
-#### [송신자](https://github.com/IT-Book-Organization/Computer-Networking_A-Top-Down-Approach/tree/main/Chapter_3/3.4%20%EC%8B%A0%EB%A2%B0%EC%A0%81%EC%9D%B8%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%EC%86%A1%EC%9D%98%20%EC%9B%90%EB%A6%AC#%EC%86%A1%EC%8B%A0%EC%9E%90)
+#### 송신자
 
 1. `rdt_send(data)` 이벤트에 의해  
     (이 이벤트는 상위 계층 애플리케이션의 프로시저 호출(e.g., `rdt_send()`)에 의해 발생)
@@ -35,7 +33,7 @@ rdt1.0에서 **각각의 FSM은 하나의 상태만을 가지므로**, 전이�
 
   
 
-#### [수신자](https://github.com/IT-Book-Organization/Computer-Networking_A-Top-Down-Approach/tree/main/Chapter_3/3.4%20%EC%8B%A0%EB%A2%B0%EC%A0%81%EC%9D%B8%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%EC%86%A1%EC%9D%98%20%EC%9B%90%EB%A6%AC#%EC%88%98%EC%8B%A0%EC%9E%90)
+#### 수신자
 
 1. rdt는 `rdt_rcv(packet)` 이벤트에 의해 하위의 채널로부터 패킷을 수신한다. : 이 이벤트는 하위 계층 프로토콜로부터의 프로시저 호출(e.g., `rdt_rcv()`)에 의해 발생한다.
     
@@ -43,9 +41,6 @@ rdt1.0에서 **각각의 FSM은 하나의 상태만을 가지므로**, 전이�
     
 3. 데이터를 상위 계층으로 전달한다. (`deliver_data(data)`)
     
-
-  
-
 ---
 
   
