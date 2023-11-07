@@ -8,32 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ce72ae3cd0823e51",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "17525f8e14bf231e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "알고리즘.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "95844636d9310849",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "컴퓨터네트워크/컴퓨터네트워크.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,16 +47,11 @@
             "id": "6f0046d12f9b3cfc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "백엔드/Django.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "백엔드/Django.md",
+                "file": "알고리즘.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "백엔드/Django.md",
+                "file": "알고리즘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "백엔드/Django.md"
+                "file": "알고리즘.md"
               }
             }
           }
@@ -203,10 +178,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9dd6aa8d7b24e279",
+  "active": "17525f8e14bf231e",
   "lastOpenFiles": [
-    "UDP.md",
     "백엔드/Django.md",
+    "UDP.md",
     "백엔드",
     "컴퓨터네트워크/컴퓨터네트워크.md",
     "컴퓨터네트워크/TCP.md",
