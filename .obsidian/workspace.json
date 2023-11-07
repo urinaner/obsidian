@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "혼잡도계산 방식 고안.md",
+                "file": "CV.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "혼잡도계산 방식 고안.md",
+                "file": "CV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "혼잡도계산 방식 고안.md",
+                "file": "CV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "혼잡도계산 방식 고안.md"
+                "file": "CV.md"
               }
             }
           }
@@ -148,6 +148,12 @@
   },
   "active": "71ecdd1a21ce2540",
   "lastOpenFiles": [
+    "혼잡도계산 방식 고안.md",
+    "CV.md",
+    "AI/NLP",
+    "AI/ML",
+    "AI/CV",
+    "AI",
     "README.md",
     "DFS.md",
     "컴퓨터네트워크/rdt2.0.md",
@@ -167,7 +173,6 @@
     "컴퓨터네트워크/전파 지연(propagation delay).md",
     "컴퓨터네트워크/노드 처리 지연(nodal processing delay).md",
     "캡스톤.md",
-    "혼잡도계산 방식 고안.md",
     "우리꺼 당위성이 아예없긴함.md",
     "자료구조.md",
     "무제 파일 1.canvas"
