@@ -48,4 +48,9 @@ OpenCV를 이용하여 배경을 제거한 후, 특정 accuracy값 조건을 만
 
 Tracking Detection을 사용하여 차량을 추적하고 바운딩 박스를 유지해나가는 방식으로, 차량이 정차 시 겹치게 되는 부분에 대해서도 해결
 
+
+RESTAPI 시각적으로 재설계중
+
+플로우
+데이터-> Background Subtraction Algorithm -> YOLO v5 -> accuracy >=0.7 추출 -> 전처리 후 json형식 재설계 ->전송![[스크린샷 2023-11-08 오후 4.04.19.png]]
 https://koreascience.kr/article/JAKO201909358629535.pdf
