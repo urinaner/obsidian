@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "백엔드/Django.md",
+                "file": "혼잡도계산 방식 고안.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "백엔드/Django.md",
+                "file": "혼잡도계산 방식 고안.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "백엔드/Django.md",
+                "file": "혼잡도계산 방식 고안.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "백엔드/Django.md"
+                "file": "혼잡도계산 방식 고안.md"
               }
             }
           }
@@ -146,10 +146,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9dd6aa8d7b24e279",
+  "active": "71ecdd1a21ce2540",
   "lastOpenFiles": [
-    "혼잡도계산 방식 고안.md",
+    "스크린샷 2023-11-08 오후 3.45.55.png",
+    "알고리즘.md",
     "스크린샷 2023-11-08 오후 3.34.25.png",
+    "백엔드/Django.md",
+    "혼잡도계산 방식 고안.md",
     "캡스톤.md",
     "컴퓨터네트워크/TCP.md",
     "AI/CV.md",
@@ -168,8 +171,6 @@
     "컴퓨터네트워크/컴퓨터네트워크.md",
     "컴퓨터네트워크/UDP.md",
     "공학설계.md",
-    "알고리즘.md",
-    "백엔드/Django.md",
     "백엔드",
     "컴퓨터네트워크/전송 지연(transmission delay).md",
     "컴퓨터네트워크/큐잉 지연(queuing delay).md",
