@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "컴퓨터네트워크/TCP.md",
+                "file": "혼잡도계산 방식 고안.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "컴퓨터네트워크/TCP.md",
+                "file": "혼잡도계산 방식 고안.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "컴퓨터네트워크/TCP.md",
+                "file": "혼잡도계산 방식 고안.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "컴퓨터네트워크/TCP.md"
+                "file": "혼잡도계산 방식 고안.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "71ecdd1a21ce2540",
   "lastOpenFiles": [
+    "컴퓨터네트워크/TCP.md",
     "혼잡도계산 방식 고안.md",
     "AI/CV.md",
     "2-Stage Detector.md",
@@ -168,7 +169,6 @@
     "알고리즘.md",
     "백엔드/Django.md",
     "백엔드",
-    "컴퓨터네트워크/TCP.md",
     "컴퓨터네트워크/전송 지연(transmission delay).md",
     "컴퓨터네트워크/큐잉 지연(queuing delay).md",
     "컴퓨터네트워크",
