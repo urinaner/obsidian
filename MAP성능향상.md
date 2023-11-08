@@ -55,3 +55,4 @@ RESTAPI 시각적으로 재설계중
 데이터-> Background Subtraction Algorithm -> YOLO v5 -> accuracy >=0.7 추출 -> 전처리 후 json형식 재설계 ->전송![[스크린샷 2023-11-08 오후 4.04.19.png]]
 https://koreascience.kr/article/JAKO201909358629535.pdf
 
+
