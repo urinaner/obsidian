@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "혼잡도계산 방식 고안.md",
+                "file": "백엔드/Django.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "혼잡도계산 방식 고안.md",
+                "file": "백엔드/Django.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "혼잡도계산 방식 고안.md",
+                "file": "백엔드/Django.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "혼잡도계산 방식 고안.md"
+                "file": "백엔드/Django.md"
               }
             }
           }
@@ -146,11 +146,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "71ecdd1a21ce2540",
+  "active": "9dd6aa8d7b24e279",
   "lastOpenFiles": [
+    "혼잡도계산 방식 고안.md",
     "스크린샷 2023-11-08 오후 3.34.25.png",
     "캡스톤.md",
-    "혼잡도계산 방식 고안.md",
     "컴퓨터네트워크/TCP.md",
     "AI/CV.md",
     "2-Stage Detector.md",
