@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "혼잡도계산 방식 고안.md",
+                "file": "컴퓨터네트워크/TCP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "혼잡도계산 방식 고안.md",
+                "file": "컴퓨터네트워크/TCP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "혼잡도계산 방식 고안.md",
+                "file": "컴퓨터네트워크/TCP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "혼잡도계산 방식 고안.md"
+                "file": "컴퓨터네트워크/TCP.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "71ecdd1a21ce2540",
   "lastOpenFiles": [
+    "혼잡도계산 방식 고안.md",
     "AI/CV.md",
     "2-Stage Detector.md",
     "AI/1-Stage Detector.md",
-    "혼잡도계산 방식 고안.md",
     "AI/NLP",
     "AI/ML",
     "AI/CV",
