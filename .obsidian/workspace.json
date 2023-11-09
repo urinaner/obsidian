@@ -11,12 +11,8 @@
             "id": "dd1cba02e6e362a8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MAP성능향상.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAP성능향상.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAP성능향상.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "MAP성능향상.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,8 +140,8 @@
   },
   "active": "dd1cba02e6e362a8",
   "lastOpenFiles": [
-    "당위성.md",
     "MAP성능향상.md",
+    "당위성.md",
     "혼잡도계산 방식 고안.md",
     "DFS.md",
     "알고리즘.md",
