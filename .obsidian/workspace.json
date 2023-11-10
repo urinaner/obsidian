@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "혼잡도계산 방식 고안.md",
+                "file": "캡스톤.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "혼잡도계산 방식 고안.md",
+                "file": "캡스톤.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "혼잡도계산 방식 고안.md",
+                "file": "캡스톤.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "혼잡도계산 방식 고안.md"
+                "file": "캡스톤.md"
               }
             }
           }
@@ -148,16 +148,16 @@
   },
   "active": "dd1cba02e6e362a8",
   "lastOpenFiles": [
-    "MAP성능향상.md",
-    "당위성.md",
     "혼잡도계산 방식 고안.md",
-    "DFS.md",
-    "알고리즘.md",
     "자료구조.md",
-    "캡스톤.md",
-    "img/스크린샷 2023-11-08 오후 3.34.25.png",
+    "알고리즘.md",
+    "DFS.md",
     "restapi재설계.md",
     "README.md",
+    "MAP성능향상.md",
+    "당위성.md",
+    "캡스톤.md",
+    "img/스크린샷 2023-11-08 오후 3.34.25.png",
     "스크린샷 2023-11-08 오후 4.20.14.png",
     "컴퓨터네트워크/큐잉 지연(queuing delay).md",
     "img/스크린샷 2023-11-08 오후 3.45.55.png",
